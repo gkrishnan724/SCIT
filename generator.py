@@ -47,8 +47,8 @@ if not os.path.exists(graphs):
     os.makedirs(graphs)
 
 for i in range(100):
-    poissplots = np.random.poisson(lam=1,size=data_size)
-    normplots = np.random.normal(loc=1.0,size=data_size)
+    poissplots = np.random.poisson(lam=i+1,size=data_size)
+    normplots = np.random.normal(loc=i+1,size=data_size)
     expdir = graphs+'Experiment'+str(i+1)+'/'
     ndir = expdir+'Normal/'
     pdir = expdir+'Poission/'
