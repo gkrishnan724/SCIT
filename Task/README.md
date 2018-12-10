@@ -36,13 +36,13 @@ Eg:
 
 * Normal for `Experiment 4` (Mean 4)
 
-![Experiment 4](https://github.com/gkrishnan724/SCIT/blob/master/Graphs/Experiment4/Normal/graph.png "Normal curve experiment 4")
+![Experiment 4](https://github.com/gkrishnan724/SCIT/blob/master/Task/Graphs/Experiment4/Normal/graph.png "Normal curve experiment 4")
 
 * Poisson for `Experiment 5` (Mean 5)
 
-![Experiment 5](https://github.com/gkrishnan724/SCIT/blob/master/Graphs/Experiment5/Poission/graph.png "Poisson curve experiment 5")
+![Experiment 5](https://github.com/gkrishnan724/SCIT/blob/master/Task/Graphs/Experiment5/Poission/graph.png "Poisson curve experiment 5")
 
 * Average for ` Experiment 6` (Mean 6)
-![Experiment 6](https://github.com/gkrishnan724/SCIT/blob/master/Graphs/Experiment6/Average/combinedgraph.png "Average for experiment 6")
+![Experiment 6](https://github.com/gkrishnan724/SCIT/blob/master/Task/Graphs/Experiment6/Average/combinedgraph.png "Average for experiment 6")
 
 
